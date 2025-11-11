@@ -1,0 +1,2 @@
+#!/bin/bash
+nano /etc/ssh/ssh_config
